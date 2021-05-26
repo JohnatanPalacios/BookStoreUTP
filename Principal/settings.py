@@ -10,8 +10,7 @@ SECRET_KEY = 'django-insecure-5!mhbe31(w8ca#wo$5j=a&(*i#ff(7w@hv%jxd=_gnt#t%&0)+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
-# ALLOWED_HOSTS = ['127.0.0.1', 'lamanchautp.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bookstoreutp.herokuapp.com']
 
 
 # Application definition
